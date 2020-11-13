@@ -7,10 +7,10 @@
   border-radius: 2px;
   outline: none;
   border: none;
-  cursor: pinter;
+  cursor: pointer;
 }
 
-.btn--primray {
+.btn--primary {
   background-color: var(--primary);
   color: #242424;
   border: 1px solid var(--primary);
@@ -26,7 +26,7 @@
 
 .btn--medium {
   padding: 8px 20px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .btn--large {
